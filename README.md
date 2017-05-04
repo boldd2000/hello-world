@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hey there!
+
+Just found this and hopes it helps me grow in my development as a programer
